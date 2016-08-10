@@ -1,0 +1,5 @@
+# Introduction
+
+What is Termlex?
+Snolex is a RESTful API for SNOMED CT.
+
